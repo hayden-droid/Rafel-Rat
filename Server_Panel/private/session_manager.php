@@ -1,7 +1,7 @@
 <?php
 session_start();
-$panel_username = 'Hande';
-$panel_password = 'Ercel';
+$panel_username = 'Meme';
+$panel_password = 'Memeitizer';
 
 function logout(){
     $_SESSION = [];
